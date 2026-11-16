@@ -1,6 +1,6 @@
 # Olá, eu sou o Jaime Augusto Perez 👋
 
-Estudante de **Sistemas de Informação** na **Universidade Federal de Viçosa (UFV)** e de **Engenharia de Software** na **Faculdade São Luís**, com interesse em **desenvolvimento back-end** e **segurança da informação**.
+Estudante de **Sistemas de Informação** na **Universidade Federal de Viçosa (UFV)** e de **Engenharia de Software** no **Centro Universitário Unifacvest**, com interesse em **desenvolvimento back-end** e **segurança da informação**.
 
 - 🎓 Cursando o 2º período de Sistemas de Informação (UFV – Campus Rio Paranaíba)
 - 🔐 Construindo base em segurança da informação para atuar na área
